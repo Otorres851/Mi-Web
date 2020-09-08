@@ -1,0 +1,102 @@
+*{
+    box-sizing: border-box;
+}
+
+html{
+    background-color: beige;
+}
+/*proyecto*/
+.proyectos{
+    background-color: antiquewhite;
+    bottom:0px;
+    left: 0;
+    padding: 1em;
+    position: fixed;
+    top: 0;
+    width: 350px;
+}
+
+.proyecto_titulo {
+    font-size: 20px;
+    font-family: arial black; 
+    margin-left: 3px;
+    text-align: center;
+     
+}
+
+.proyecto_imagen {
+    height: 350px;
+    margin-left: 30px;
+    width: 250px;
+}
+
+.tablas {
+    border-width: 1px;
+    border-color: grey;
+    border-style: dashed;
+    border-right:black solid 1px;
+    margin-left: 30px;
+    margin-top: 2em;
+    width: 78%;
+}
+.proyecto--tabla{
+    border-style: dashed;
+    border-width: 1px;
+    border-color:grey;
+    font-family: "Segoe UI Semibold";
+    font-size: 10pt;    
+}
+
+/*Informaciones*/
+.informaciones{
+    margin-left: 350px;
+    padding: 1em;
+    position: fixed;
+    width: 75%;
+}
+
+.informacion_titulo {
+    color: chocolate;
+    font-size: 30px;
+    margin-top: 0;  
+}
+ 
+.informacion_descripcion{
+    font-family: arial black;
+    font-size: 15px;
+    margin: 0,5em;
+    padding: 16px;
+    margin-bottom: 2px;
+}
+/*seccion*/
+.seccion{
+    margin-left: 1px;
+    padding: 0;
+    width: 96%;   
+}
+
+h2::first-letter{
+    color:red 
+}
+
+.seccion_titulo {
+    color: #053560;
+    font-family: arial black;
+    font-size: 20px;
+    margin-top: 1em;
+}
+
+.seccion_descripcion {
+    font-family: arial black;
+    font-size: 15px;
+    margin: 0,5em;
+}
+.secciones_pequeñas{
+    display: block;
+    padding: 0;   
+}
+
+.seccion--pequeña{
+    font-family: arial black;
+    font-size: 15px;
+}
