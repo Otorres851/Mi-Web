@@ -1,6 +1,6 @@
 # Repositorio de pruebas 👌
 
-Este sera el repositorio de prueba y los comandos utilizados en GIT son los siguientes:
+Este sera el repositorio de prueba y los comandos utilizados en Git son los siguientes:
 - 'cd' Sirve para cambiar directorio.
 - 'mv' Sirve para mover y renombrar un archivo.
 - 'rm' Sirve para borrar o eliminar un archivo.
